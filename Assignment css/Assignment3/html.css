@@ -1,0 +1,19 @@
+#first{
+    font-family: Arial, Helvetica, sans-serif;/*Different writing caan be selected with the use of this property*/
+    font-size:large;/*Size of text can be selected with the use of this property*/
+     font-weight:200;/*Thickness of text can be selcted from this property*/
+    font-style:italic ;/*text style can be selcted with the use of this property*/
+    line-height:50px ;/*The property is used to decide the gap between the lines*/
+    text-transform:capitalize ;/*The property is used to decide that text should be in Cpital or small letters */
+}
+#second{
+    font-family:cursive ;/*Different writing caan be selected with the use of this property*/
+    font-size:small ;/*Size of text can be selected with the use of this property*/
+    font-weight:400px ;/*Thickness of text can be selcted from this property*/
+    font-style:normal ;/*text style can be selcted with the use of this property*/
+    line-height:30px;/*The property is used to decide the gap between the lines*/
+    text-transform:uppercase ;/*The property is used to decide that text should be in Cpital or small letters */
+}
+body{
+    background-color: aqua;
+}

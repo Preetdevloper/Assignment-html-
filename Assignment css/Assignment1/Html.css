@@ -1,0 +1,15 @@
+#main{
+    color: blue;
+    font-size: large;
+} /*Since, "#" is used to access member inside an ID-selector (Unique Selection of a member from a group of seklected element of paragraph) */
+p{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} /*All paragraphs are selected by selecting an element of p tag (element selector)*/
+.first{
+    color: rgb(43, 226, 107);
+}/*All element of a specific group (div) is selected (class-selector used to select a group)*/
+header{
+     font-size:30px;
+}
+

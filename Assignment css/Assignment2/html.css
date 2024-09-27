@@ -1,0 +1,11 @@
+div
+{
+    color:rgb(255, 0, 43) ;/*color of text is changede here*/
+   
+}
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.m4FmOjk0Bx-N4JaBzsBoTgHaEP&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-position:inherit; /*(Different position of background image can be set by use the use of this property*/
+    background-size: 100%; /*We can define the sixe of background image so that desired amount of background will be covered only */
+}

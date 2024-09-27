@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    
+}
+#main{
+background-color: tomato;
+}
+#imp{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+
+}
+li{
+    display: block;
+    margin: 20px;
+}
+#first{
+    border-style: solid;
+    display: inline;
+    border-color: black;
+    box-sizing: border-box;
+    width: 50%;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#second{
+    border-style: solid;
+    display: inline;
+    border-color:black;
+    box-sizing: border-box;
+    width: 50%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+
+
+}
